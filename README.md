@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @yorman.lopez
+- ☹️ Quiero hacer un bot para WhatsApp. 
